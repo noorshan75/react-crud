@@ -27,7 +27,6 @@ ReactDOM.render(
       <ProtectedRoute exact path="/about" component={About} />
       <ProtectedRoute   exact path="/edit/:id" component={Edit} />
       <ProtectedRoute  exact  path="/view/:id" component={View} />
-      {/* <Route exact path="/add" component={Add}/>
       <Route exact path="/about" component={About}/>
       <Route exact path="/edit/:id" component={Edit}/>
       <Route exact path="/view/:id" component={View}/> */}
